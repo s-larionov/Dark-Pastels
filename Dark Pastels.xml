@@ -583,7 +583,7 @@
     </option>
     <option name="HTML_TAG">
       <value>
-        <option name="FOREGROUND" value="33ff" />
+        <option name="FOREGROUND" value="797fff" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -923,7 +923,7 @@
     </option>
     <option name="JS.REGEXP">
       <value>
-        <option name="FOREGROUND" value="9933cc" />
+        <option name="FOREGROUND" value="b63ef2" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
